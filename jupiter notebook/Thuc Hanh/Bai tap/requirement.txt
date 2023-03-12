@@ -1,0 +1,7 @@
+//th1
+# pip list
+# !conda list
+
+# install lib
+!pip install matplotlib
+!pip install seaborn
